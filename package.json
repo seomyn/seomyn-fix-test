@@ -1,0 +1,20 @@
+{
+  "name": "seomyn-fix-test-site",
+  "private": true,
+  "description": "Disposable test site for Seomyn's website-fix test. Fictional business; no real customer information.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "16.4.2",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "22.20.5",
+    "@types/react": "19.3.0",
+    "typescript": "6.0.3"
+  }
+}
