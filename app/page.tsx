@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Juniper Lane Bakery: fresh bread and pastries",
+  description: "Juniper Lane Bakery bakes fresh sourdough, bread and pastries every morning. Visit us for warm loaves, croissants and seasonal treats.",
 };
 
 export default function HomePage() {
